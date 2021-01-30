@@ -1,4 +1,4 @@
-# airodump
+# deauth
 ## Usage
 - sudo sh setting.sh wlan1
 - sudo ./deauth-attack <interface> <ap mac> [<station mac>]
